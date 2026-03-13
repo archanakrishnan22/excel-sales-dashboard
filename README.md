@@ -29,6 +29,15 @@ The dataset contains the following fields:
 - Analyze regional sales performance
 - Detect performance gaps
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Excel Dashboard Development
+- Pivot Tables
+- Data Visualization
+- Business Insight Generation
+
 ## Dashboard Preview
 ![Dashboard](dashboard-preview.png)
 
